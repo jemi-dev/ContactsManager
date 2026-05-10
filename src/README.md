@@ -19,3 +19,5 @@ et de rechercher des contacts.
 - Ouvrir le projet dans IntelliJ IDEA ou Un editeur aproprié
 - Exécuter la classe Main.java
 
+## Auteur
+AKA ESTHER JEMIMA
